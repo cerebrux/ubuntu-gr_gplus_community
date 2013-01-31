@@ -9,3 +9,5 @@ Ubuntu Greece G+ Community
 
  Τι είναι το Ubuntu;
    http://ubuntu-gr.org/content/%CF%84%CE%B9-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%84%CE%BF-ubuntu
+
+Έκδοση Αρχείου: v0.9.0
