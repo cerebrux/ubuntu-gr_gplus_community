@@ -29,7 +29,7 @@ Ubuntu Greece G+ Community
 
 Έκδοση Αναθεώρησης
 ------------------
-v1.0.3
+v1.0.4
 
   [1]: https://plus.google.com/communities/113489005803686865491
   [2]: http://ubuntu-gr.org/content/%CF%84%CE%B9-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%84%CE%BF-ubuntu
